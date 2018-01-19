@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{zubradt2017dms}
+M.~et~al Zubradt.
+\newblock Dms-mapseq for genome-wide or targeted rna structure probing in vivo.
+\newblock {\em Nature methods}, 14(1):75--82, 2017.
+
+\bibitem{maaten2008visualizing}
+L.~et~al Maaten.
+\newblock Visualizing data using t-sne.
+\newblock {\em Journal of Machine Learning Research}, 9(Nov), 2008.
+
+\bibitem{kruskal1964nonmetric}
+J~Kruskal.
+\newblock Nonmetric multidimensional scaling: a numerical method.
+\newblock {\em Psychometrika}, 1964.
+
+\bibitem{xie2016unsupervised}
+J.~et~al Xie.
+\newblock Unsupervised deep embedding for clustering analysis.
+\newblock In {\em Int'l Conference on Machine Learning (ICML)}, 2016.
+
+\end{thebibliography}

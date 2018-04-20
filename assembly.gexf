@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="capacity" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>06/04/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="17_00000" label="17_00000" />
+      <node id="18_00000" label="18_00000" />
+      <node id="19_00000" label="19_00000" />
+      <node id="20_00000" label="20_00000" />
+      <node id="21_00000" label="21_00000" />
+      <node id="22_00000" label="22_00000" />
+      <node id="23_00000" label="23_00000" />
+      <node id="24_00000" label="24_00000" />
+      <node id="25_00000" label="25_00000" />
+      <node id="26_00000" label="26_00000" />
+      <node id="27_00000" label="27_00000" />
+      <node id="0_00000" label="0_00000" />
+      <node id="1_00000" label="1_00000" />
+      <node id="2_00000" label="2_00000" />
+      <node id="3_00000" label="3_00000" />
+      <node id="4_00000" label="4_00000" />
+      <node id="5_00000" label="5_00000" />
+      <node id="6_00000" label="6_00000" />
+      <node id="7_00000" label="7_00000" />
+      <node id="8_00000" label="8_00000" />
+      <node id="9_00000" label="9_00000" />
+      <node id="10_00000" label="10_00000" />
+      <node id="11_00000" label="11_00000" />
+      <node id="12_00000" label="12_00000" />
+      <node id="28_00000" label="28_00000" />
+      <node id="29_00000" label="29_00000" />
+      <node id="13_00000" label="13_00000" />
+      <node id="14_00000" label="14_00000" />
+      <node id="15_00000" label="15_00000" />
+      <node id="16_00000" label="16_00000" />
+      <node id="27_0000C" label="27_0000C" />
+      <node id="28_000C0" label="28_000C0" />
+      <node id="29_00C00" label="29_00C00" />
+      <node id="15_0000C" label="15_0000C" />
+      <node id="16_000C0" label="16_000C0" />
+      <node id="17_00C00" label="17_00C00" />
+      <node id="18_0C000" label="18_0C000" />
+      <node id="19_C0000" label="19_C0000" />
+      <node id="15_0A000" label="15_0A000" />
+      <node id="16_A0000" label="16_A0000" />
+      <node id="12_0000A" label="12_0000A" />
+      <node id="13_000A0" label="13_000A0" />
+      <node id="14_00A00" label="14_00A00" />
+      <node id="16_A00C0" label="16_A00C0" />
+      <node id="15_0A00C" label="15_0A00C" />
+      <node id="10_0000C" label="10_0000C" />
+      <node id="11_000C0" label="11_000C0" />
+      <node id="12_00C00" label="12_00C00" />
+      <node id="13_0C000" label="13_0C000" />
+      <node id="14_C0000" label="14_C0000" />
+      <node id="0_0000C" label="0_0000C" />
+      <node id="1_000C0" label="1_000C0" />
+      <node id="2_00C00" label="2_00C00" />
+      <node id="3_0C000" label="3_0C000" />
+      <node id="4_C0000" label="4_C0000" />
+    </nodes>
+    <edges>
+      <edge id="0" source="17_00000" target="18_00000">
+        <attvalues>
+          <attvalue for="0" value="254" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="18_00000" target="19_00000">
+        <attvalues>
+          <attvalue for="0" value="262" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="19_00000" target="20_00000">
+        <attvalues>
+          <attvalue for="0" value="284" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="20_00000" target="21_00000">
+        <attvalues>
+          <attvalue for="0" value="325" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="21_00000" target="22_00000">
+        <attvalues>
+          <attvalue for="0" value="354" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="22_00000" target="23_00000">
+        <attvalues>
+          <attvalue for="0" value="385" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="23_00000" target="24_00000">
+        <attvalues>
+          <attvalue for="0" value="409" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="24_00000" target="25_00000">
+        <attvalues>
+          <attvalue for="0" value="440" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="25_00000" target="26_00000">
+        <attvalues>
+          <attvalue for="0" value="422" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="26_00000" target="27_00000">
+        <attvalues>
+          <attvalue for="0" value="373" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="26_00000" target="27_0000C">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="27_00000" target="28_00000">
+        <attvalues>
+          <attvalue for="0" value="353" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="0_00000" target="1_00000">
+        <attvalues>
+          <attvalue for="0" value="346" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="1_00000" target="2_00000">
+        <attvalues>
+          <attvalue for="0" value="365" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="2_00000" target="3_00000">
+        <attvalues>
+          <attvalue for="0" value="381" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="3_00000" target="4_00000">
+        <attvalues>
+          <attvalue for="0" value="396" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="4_00000" target="5_00000">
+        <attvalues>
+          <attvalue for="0" value="420" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="5_00000" target="6_00000">
+        <attvalues>
+          <attvalue for="0" value="434" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="6_00000" target="7_00000">
+        <attvalues>
+          <attvalue for="0" value="404" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="7_00000" target="8_00000">
+        <attvalues>
+          <attvalue for="0" value="371" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="8_00000" target="9_00000">
+        <attvalues>
+          <attvalue for="0" value="354" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="9_00000" target="10_00000">
+        <attvalues>
+          <attvalue for="0" value="314" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="9_00000" target="10_0000C">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="10_00000" target="11_00000">
+        <attvalues>
+          <attvalue for="0" value="290" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="11_00000" target="12_00000">
+        <attvalues>
+          <attvalue for="0" value="254" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="11_00000" target="12_0000A">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="12_00000" target="13_00000">
+        <attvalues>
+          <attvalue for="0" value="229" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="28_00000" target="29_00000">
+        <attvalues>
+          <attvalue for="0" value="332" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="13_00000" target="14_00000">
+        <attvalues>
+          <attvalue for="0" value="221" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="14_00000" target="15_00000">
+        <attvalues>
+          <attvalue for="0" value="195" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="14_00000" target="15_0000C">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="15_00000" target="16_00000">
+        <attvalues>
+          <attvalue for="0" value="206" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="16_00000" target="17_00000">
+        <attvalues>
+          <attvalue for="0" value="220" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="27_0000C" target="28_000C0">
+        <attvalues>
+          <attvalue for="0" value="28" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="28_000C0" target="29_00C00">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="15_0000C" target="16_000C0">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="16_000C0" target="17_00C00">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="17_00C00" target="18_0C000">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="18_0C000" target="19_C0000">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="19_C0000" target="20_00000">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="15_0A000" target="16_A0000">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="16_A0000" target="17_00000">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="12_0000A" target="13_000A0">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="13_000A0" target="14_00A00">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="14_00A00" target="15_0A000">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="14_00A00" target="15_0A00C">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="16_A00C0" target="17_00C00">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="10_0000C" target="11_000C0">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="11_000C0" target="12_00C00">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="12_00C00" target="13_0C000">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="13_0C000" target="14_C0000">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="14_C0000" target="15_00000">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="0_0000C" target="1_000C0">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="1_000C0" target="2_00C00">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="2_00C00" target="3_0C000">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="3_0C000" target="4_C0000">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="4_C0000" target="5_00000">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
